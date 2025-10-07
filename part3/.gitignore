@@ -1,0 +1,5 @@
+# Ignore service account keys and sensitive credentials
+service-credentials.json
+*.json
+
+
